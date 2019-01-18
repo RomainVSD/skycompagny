@@ -1,4 +1,4 @@
-# vsd corporation
+# VSD Corporation
 Virtual Security Development Corporation
 
 
